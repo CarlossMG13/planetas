@@ -3,10 +3,10 @@ Esta es una página del curso [Programación Web II]() de la **Universidad Crist
 El propósito del curso es *Desarrollar aplicaciones Web que permitan la construcción de portales y/o sitios dinámicos utilizando protocolos, modelos y arquitecturas vigentes*. 
 Durante las unidades se aprenderá sobre el uso de:
 
-*Git + Github
-*HTML
-*CSS
-*Javascript
-*Frameworks de desarrollo
-*PHP + MySQL
-*Ajax
+* Git + Github
+* HTML
+* CSS
+* Javascript
+* Frameworks de desarrollo
+* PHP + MySQL
+* Ajax
